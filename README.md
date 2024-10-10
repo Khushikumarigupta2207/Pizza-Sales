@@ -11,11 +11,10 @@ The main objective of this project is to help the business make data-driven deci
 
 ## Dataset
 The dataset contains information on pizza orders, including:
-- order_id: Unique order identifier
-- pizza_id: Unique pizza identifier
-- quantity: Number of pizzas ordered
-- pizza_price: Price of each pizza
-- order_time: Time when the order was placed
+-Order_details
+-orders
+-pizza_types
+-Pizzas
 
 ## SQL Analysis
 The project consists of three levels of SQL queries:
