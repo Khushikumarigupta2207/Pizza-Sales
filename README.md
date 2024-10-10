@@ -18,19 +18,13 @@ The dataset contains information on pizza orders, including:
 
 ## SQL Analysis
 The project consists of three levels of SQL queries:
-
-### Basic Analysis
 - Retrieve total number of orders
 - Calculate total revenue from pizza sales
 - Identify the highest-priced pizza and the most common pizza size
 - List the top 5 most ordered pizza types
-
-- ### Intermediate Analysis
 - Find total quantities ordered by pizza category
 - Analyze order distribution by hour of the day
 - Calculate the average number of pizzas ordered per day
-
-### Advanced Analysis
 - Calculate the percentage contribution of each pizza to total revenue
 - Track cumulative revenue over time
 - Identify top 3 pizzas by revenue
